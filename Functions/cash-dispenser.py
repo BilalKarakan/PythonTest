@@ -37,5 +37,4 @@ def paraCek(hesap, miktar):
 def bakiyeSorgula(hesap):
     print(f"{hesap['HesapNo']} nolu hesabınızda {hesap['Bakiye']} TL bulunmaktadır. Ek hesabınızda {hesap['EkHesap']} TL bulunmaktadır.")
 paraCek(Hesap1, int(input("Kaç para çekmek istiyorsunuz?  ")))
-print("****************************")
 paraCek(Hesap1, int(input("Kaç para çekmek istiyorsunuz?  ")))
