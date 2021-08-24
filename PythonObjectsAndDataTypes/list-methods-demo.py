@@ -82,7 +82,6 @@ print(allBrand)
 
 OR
 """
-
 """
 markalar = []
 
