@@ -31,14 +31,12 @@ musteriDogumYili = 1989
 musteriAdres = "İstanbul Kadıköy"
 musteriYasi = 2021 - musteriDogumYili
 """
-
 """
 1-) Toplam siparişi hesabla
 siparis1 = 110
 siparis2 = 1110.5
 siparis3 = 396.95
 """
-
 """
 order1 = 110
 order2 = 1110.5
